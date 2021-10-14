@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-                                                                                                                                                                                  
+from app import app   
 import unittest
 
 class Test(unittest.TestCase):                                                                                                                                                                           
